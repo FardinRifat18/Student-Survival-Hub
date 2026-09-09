@@ -1,0 +1,6 @@
+{
+  "name": "Student Survival Hub",
+  "description": "Plan Better. Study Smarter. Live Easier. The ultimate student life management dashboard with AI study assistant, deadline tracking, exam prep, smart action plans, time & budget management, and career roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
